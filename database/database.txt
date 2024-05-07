@@ -1,0 +1,15 @@
+# Temp Database
+In this file I will be storing contact request and this file will act as a temporary database.
+
+The file structure will be as follows:
+* Name
+* Subject
+* Email
+* Message
+---------------------------------------------------------------------------------------------------
+
+You have received a new message today:
+Grea Taylor 
+Hi BeBe 
+greaptaylor@gmail.com 
+Your first form, yay! :D
