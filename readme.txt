@@ -4,9 +4,6 @@ This portfolio showcases my expertise in coding, machine learning, and artificia
 
 Featured Projects
 
-[Project 1 Name] (Link to project repo): A brief description of the project, highlighting technologies and skills used.
-[Project 2 Name] (Link to project repo): Another project description, focusing on unique challenges and outcomes.
-[Project 3 Name] (Link to project repo): Continue listing key projects and their descriptions.
 Skills and Technologies
 
 Programming Languages: Python, JavaScript, HTML, CSS, Bootstrap
